@@ -2,3 +2,5 @@ xss
 crlf
 crlf
 All
+lfi
+rce
