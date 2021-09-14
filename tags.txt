@@ -4,3 +4,6 @@ crlf
 All
 lfi
 rce
+ssrf
+sqli
+xxe
